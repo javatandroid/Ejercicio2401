@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <dimen name="tamTexto">32dp</dimen>
+   <dimen name="textobotones">30dp</dimen>
+   <dimen name="altocabecera">200dp</dimen>
+   <dimen name="anchocabecera">match_parent</dimen>
+   <dimen name="match">match_parent</dimen>
+   <dimen name="wrap">wrap_content</dimen>
+   <dimen name="anchoboton">170dp</dimen>
+   <dimen name="altoboton">60dp</dimen>
+   <dimen name="tamborde">5dp</dimen>
+
+
+</resources>

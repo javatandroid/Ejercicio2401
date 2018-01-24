@@ -1,0 +1,53 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+        //Estilo botón
+
+    <style name="estiloBoton">
+
+        <item name="android:textColor">@color/colorTextoBoton</item>
+        <item name="android:textSize">@dimen/tamTexto</item>
+        <item name="android:shadowColor">@color/colorSombra</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:background">@drawable/estilo_boton</item>
+    </style>
+
+    <style name="estiloCabecera">
+
+        <item name="android:background">@drawable/trama</item>
+        <item name="android:layout_height">@dimen/altocabecera</item>
+        <item name="android:layout_width">@dimen/anchocabecera</item>
+
+    </style>
+
+    <style name="estiloLayout">
+
+        <item name="android:background">@drawable/estilolayout</item>
+        <item name="android:layout_width">@dimen/wrap</item>
+        <item name="android:layout_height">@dimen/match</item>
+    </style>
+
+    <style name="estiloBotones">
+        <item name="android:textColor">@color/botones</item>
+        <item name="android:textSize">@dimen/textobotones</item>
+        <item name="android:shadowColor">@color/botonesSombra</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">5</item>
+        <item name="android:background">@drawable/botones</item>
+        <item name="android:layout_width">@dimen/anchoboton</item>
+        <item name="android:layout_height">@dimen/altoboton</item>
+
+
+    </style>
+
+
+</resources>

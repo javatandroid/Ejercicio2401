@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio2401</string>
+
+    <string name="textoBoton">Aceptar</string>
+    <string name="boton1">Opción1</string>
+    <string name="boton2">Opción2</string>
+    <string name="boton3">Opción3</string>
+
+</resources>
